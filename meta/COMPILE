@@ -1,0 +1,5 @@
+
+./autogen.sh
+./configure --prefix=/opt/speex --sysconfdir=/opt/speex/conf 
+
+
